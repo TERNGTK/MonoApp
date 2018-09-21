@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-keep-awake/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93fd83f8109d9fafab965cf48481901811269903">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-keep-awake/android/build/intermediates/pre-dexed/androidTest/debug/classes_80c6e32d3fb67427bfae3cfa669ba4e134f5d253.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/057e45995838d40d747c3af0d876236b4fa11b9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d2e484a2a06d09807326acacd5c9ab22e80ead4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_22ed1acf37e87f569034b84e22ea0f01278b6f18/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/9f27f1bb37d24cdc5c83d3287fe7a9e55dae8e99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_36dda81ba14839e95c47b6addfc85bb767b19175.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_427f3c2d027bd78cb6c205f79de16b0988ce32b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_134a47ee32d4665df19914d0c31236e57336188a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/22bf44817a5f8e5ea6519eed183eac83ee58c0eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d39bb1fc77c42caf9ff037e1600f7dcce3b613a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_ff8669c8da04874b91342b0bd511e72e67eee4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-orientation/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="50f028419d2afa2553ede352855d5fcb848f9559">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_7b2d56d30051bca93cc788ba8191f440d294d1f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4624cea87607b6ed37daa7518c595e752f42d00e">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89cba87adab5c925c68dfa924f23c11b14482188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/aa69cc8574d88ea3d36518d747401bec9596f85e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e909bc8bd6bfc49fe095e22131339d9e0e4285b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-video/android-exoplayer/build/intermediates/pre-dexed/androidTest/debug/okio-1.13.0_473ee1385aea91322ac84fc2c92cdea824867af8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_b595f1271deca44f9568b0e42754d9d73400691e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/1568ddf8aac5cbfbd8c0ca79a484791019704667/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_095da91c2eea926a0cd75bad849a9ec5e980bd7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/dd75fc09e70e070c2d58ff9cd6a1785835314c25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_adee9d6557d764fa51a0b2e0112bdec9d04fe4fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/9148365c1162bcdfbe03745ee75ede09a0cdeb3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8dca5d7258e33de370792b1e4fd144a3ecbbe44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/82e7f106804b30d02fcc22d408e4dd3eb35fbdf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd39917125b6b42200b7984404d88119aadc7905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/d829725f5207f17d5a21d4235aff3479a0410ebe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a3852bb577a439235b5b88cabf6a3a51cebfaa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/230936793da4b8b0aade9e11ecedd589a60ede2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08be2d8bdb351fb28953079622d61a4847c9e4db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/b1c8c1ccfb86cf73fb777586ad8d7fe1161677ce/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_a4ba80d7c7a8c137b540af93c9381194657de222/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_82314983e7c52eff4143604319f488191dab0c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/5b9295611ecf60871d502bf83e18aa8c1a28f1cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_52dc84281f160b00dc36c5a09cdf8be272059987.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_5e3dfaf3efb6411056f8bb939300c086796f6207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/e3bf0c55ad1e7a07cb60dcee6f21add6730d5bf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e21d1a21bd1bd9391fbed2a77fab5c3d12b8bde5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/7fc2f548228384afe3bc186951f8ddcb80378406/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_78ffbc8cc0b4390b83e046314534202ffe5606e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_9d62b696f43849b8915dd86408ef6efdf23a8915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/cce7a26e73251f21fa03e3d975dfdea4c399ce08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a89e1419b1fd93f58906604071a2fe14729f3022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.0_dc9bc05a1e2dbfc2b6c88c63d5a2a7b43ea29b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_c1110a60c328c3736ddf38c79c4ba077634f46a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ac3b1673caeafa7852a4c7d6d9da99eb07728f8">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes_335aab912becc05f4091a4e6892f912b48cf577f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/0b7383e8e39ada0ad4371ac546f8f42b3ddb85ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d3ff559846f058d3ff82203526e17cc348fd2df/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-keep-awake/android/build/intermediates/pre-dexed/androidTest/debug/support-annotations-26.1.0_a70aefaea454f044b756c274efd0d90e20012b0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_c109c10c1d53be0a7dcb9349de68b5de0c373663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efff72fc27feaf1bb6d6911253c5285d477f04de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/256b7ae7dcee7a750d476a4fb905c7d0255f113d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aafed85e21a4daacd152f5f8d44bb61cd35e6359">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91c8974f79283a9eec52a1c448d4b97c6a73bcb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/057e45995838d40d747c3af0d876236b4fa11b9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_2d2e484a2a06d09807326acacd5c9ab22e80ead4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/5151c8ae6e569f100ed12226c9c0a8f35a5aaef1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1156d66c51128c1bcf1727a4a7a5ca83666d5ea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/22bf44817a5f8e5ea6519eed183eac83ee58c0eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_1d39bb1fc77c42caf9ff037e1600f7dcce3b613a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_35752c662544627e827016357afaf4159d89c114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-orientation/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9024565096a53b14fa996d2b018b8d1a6a52cb2e">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-orientation/android/build/intermediates/pre-dexed/androidTest/debug/classes_0a676c40ad622d94bbbcbbbf39aa4c252fd410ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/9f27f1bb37d24cdc5c83d3287fe7a9e55dae8e99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36dda81ba14839e95c47b6addfc85bb767b19175/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-video/android-exoplayer/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5325838e38724602fc3dcc9468dbe58ad26b415b">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-video/android-exoplayer/build/intermediates/pre-dexed/androidTest/debug/classes_f4e2942e41ee5d4be5c3656f617430983ff2fbb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/1568ddf8aac5cbfbd8c0ca79a484791019704667/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_095da91c2eea926a0cd75bad849a9ec5e980bd7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/ca7b24c045c9359d8254d640a6750096d8eacdac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="effa31b9150eed30c7bdd455cec8448f58922cc1">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff56a1b0b67dfa19d9b48ef7cac3e9509838e1fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-video/android-exoplayer/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63ee5d39815d93dcec922935b6abcce3eec35e34">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_8601979565fc2f0fa96e127e88d47b4405e3d525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/230936793da4b8b0aade9e11ecedd589a60ede2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_08be2d8bdb351fb28953079622d61a4847c9e4db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/c74e77a43d1d2f821c46baef652c9399f2a35536/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57d2fe16406eaf133a298c3a96c97bb0fb111ccb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_16e011edf99fe35f00889b1c512595f5f442c398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/dd75fc09e70e070c2d58ff9cd6a1785835314c25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adee9d6557d764fa51a0b2e0112bdec9d04fe4fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/b1c8c1ccfb86cf73fb777586ad8d7fe1161677ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_802049bc4ae5cfdeb63ffd9551dc5156c907f0d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_5e3dfaf3efb6411056f8bb939300c086796f6207.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82314983e7c52eff4143604319f488191dab0c6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/0af9207ccc803fe8bf1ea8492db3a65163ed3ee5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc0260762808f1e9244fa3a1aa53c4a140208af5">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48e6888f20add64af46e11ff0a0621d31b2be968/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-keep-awake/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25b4747216a57a7164f8e39248ea3a866b856803">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_212095c503152cd41ebee9524245ac3d679ae10c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40626d0829d6ebd46d64a9623ccfe19818da4ca0">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-linear-gradient/android/build/intermediates/pre-dexed/androidTest/debug/classes_7d66fff2120b8eccc192b565c04c3bd9e11a98db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/2c1a7ee066300fb74ca2ef3d0f0b4723b8819ccc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8f9e9234b5d2c6c06d9a041ddf535a7796e23d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/7fc2f548228384afe3bc186951f8ddcb80378406/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78ffbc8cc0b4390b83e046314534202ffe5606e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/cce7a26e73251f21fa03e3d975dfdea4c399ce08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/classes_a89e1419b1fd93f58906604071a2fe14729f3022.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a87d85ec555546221e6d809e7fe70aa09c11063">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c587282bba0d55b6431ab2b69dcab808cf9b8e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9d62b696f43849b8915dd86408ef6efdf23a8915.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/c86a01fe6a1192d175edce8fa2402b5fd302c004/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8c57f428f82d1accd3d84d9d7fcae183ed94297f">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a33e18865020f880f5a05fdaf27a0b5d8f3f790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/d13591960db7f2d7ffe959e13512afd9488c5379/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a7bf9e83c3ab674547c23a27e2f9e7c744161b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/20bdaea350a704842449d42a02ca1b9bdd393415/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc90669423ccb16c7cf005bccb3d5ffeb8730659">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2aa7699ecaa795dd7141071017939bbe80d89629/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/node_modules/react-native-video/android-exoplayer/build/intermediates/pre-dexed/androidTest/debug/okhttp-3.9.1_a1256807ef2987f8e747d4e75ba5f94d64676157.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/.android/build-cache/5b9295611ecf60871d502bf83e18aa8c1a28f1cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52dc84281f160b00dc36c5a09cdf8be272059987/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.0_dc9bc05a1e2dbfc2b6c88c63d5a2a7b43ea29b68.jar" />
+    </item>
+
+</items>

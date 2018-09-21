@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_shuffle.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fullscreen_exit.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_repeat_all.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_repeat_off.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fullscreen_enter.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_repeat_one.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-ldpi-v4/exo_controls_repeat_one.png"
+    }
+]
