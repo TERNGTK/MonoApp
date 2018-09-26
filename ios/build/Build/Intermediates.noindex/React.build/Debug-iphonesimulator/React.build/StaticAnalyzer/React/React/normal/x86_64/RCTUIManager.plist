@@ -6,7 +6,7 @@
 <string>Apple LLVM version 9.0.0 (clang-900.0.38)</string>
  <key>files</key>
  <array>
-  <string>/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/node_modules/react-native/React/Modules/RCTUIManager.m</string>
+  <string>/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/node_modules/react-native/React/Modules/RCTUIManager.m</string>
  </array>
  <key>diagnostics</key>
  <array>

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/macbook/Desktop/My\ Macbook/React-Native/Project/HrApp[ios\ Splash]/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/macbook/Desktop/My\ Macbook/React-Native/Project/HrApp[ios\ Splash]/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/macbook/Desktop/My\ Macbook/React-Native/Project/MonoApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/macbook/Desktop/My\ Macbook/React-Native/Project/MonoApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

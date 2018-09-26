@@ -214,7 +214,7 @@ class Login extends Component{
         <View style={styles.logoContainer}>
         {/* <Image  style={styles.logo}  source={LogoImage}  /> */}
         <Image  style={styles.logoMono}  source={require('./image/Logo.png')} />
-          <Text style={styles.title}>Application for Employee</Text>
+          <Text style={styles.title}>Application for Employee X</Text>
         </View>
   
 
@@ -273,7 +273,7 @@ Show 1 Record
  
      <TouchableOpacity style={styles.buttonContainer} onPress={()=>this.Login()} >
      <Icon name='sign-in' size={20} color='white' style={{textAlign:'center'}}> 
-       <Text style={styles.buttonText}>  Alpha Login </Text>
+       <Text style={styles.buttonText}>  Alpha X Login</Text>
        </Icon>
      </TouchableOpacity> 
 
