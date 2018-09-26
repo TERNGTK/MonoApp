@@ -273,7 +273,7 @@ Show 1 Record
  
      <TouchableOpacity style={styles.buttonContainer} onPress={()=>this.Login()} >
      <Icon name='sign-in' size={20} color='white' style={{textAlign:'center'}}> 
-       <Text style={styles.buttonText}>  Login </Text>
+       <Text style={styles.buttonText}>  Alpha Login </Text>
        </Icon>
      </TouchableOpacity> 
 
