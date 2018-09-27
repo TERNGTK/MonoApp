@@ -360,11 +360,12 @@ const styles = StyleSheet.create({
     },
     Contact_Detail_1:{
       fontSize: 13,
-      fontWeight:"bold",
+     // fontWeight:"bold",
       paddingLeft:12,
       paddingRight:10,
       marginBottom:5,
-      paddingTop:7
+      paddingTop:7,
+      fontFamily: 'Kanit-Light'
     },
     Contact_Detail_2:{
       fontSize: 11,
@@ -420,9 +421,10 @@ const styles = StyleSheet.create({
     TitleTypeContent:{
       fontSize:20
       ,color:'#74b9ff',
-      fontWeight:"bold",
+    //  fontWeight:"bold",
       marginTop:7,
       paddingLeft:10,
+      fontFamily: 'Kanit-Medium'
 
     },
     ScrollViewHorizontal:{
@@ -457,10 +459,11 @@ const styles = StyleSheet.create({
 
     Title_Content:{
       fontSize: 13,
-      fontWeight:"bold",
+    //  fontWeight:"bold",
       paddingLeft:7,
       paddingRight:7,
-      paddingTop:7
+      paddingTop:7,
+      fontFamily: 'Kanit-Light'
     },
 
 

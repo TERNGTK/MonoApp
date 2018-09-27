@@ -670,7 +670,8 @@ const styles = StyleSheet.create({
     backgroundColor:'rgba(255,255,255,0.7)',
     marginBottom:10,
     color:'black',
-    paddingHorizontal:10
+    paddingHorizontal:10,
+    fontFamily: 'Kanit-Light',
   },
   ContainerBoxApp:{
     flex: 1, 
@@ -702,15 +703,16 @@ const styles = StyleSheet.create({
   },
   Detail_1:{
     fontSize: 13,
-    fontWeight:"bold",
     paddingLeft:10,
     paddingRight:10,
-    marginBottom:5
+    marginBottom:5,
+    fontFamily: 'Kanit-Medium',
   },
   Detail_2:{
     fontSize: 11,
     paddingLeft:10,
     paddingRight:10,
+    fontFamily: 'Kanit-Light',
 
   },
   buttonContainer_Register:{
@@ -730,8 +732,8 @@ const styles = StyleSheet.create({
   buttonRegister:{ 
     textAlign:'center',
     color:'white',
-    fontWeight:"bold",
     fontSize:15,
+    fontFamily: 'Kanit-Light',
 },
   BoxListHistory:{
      // height: 120, 
@@ -768,11 +770,12 @@ const styles = StyleSheet.create({
     },
     Contact_Detail_1:{
       fontSize: 13,
-      fontWeight:"bold",
+//      fontWeight:"bold",
       paddingLeft:12,
       paddingRight:10,
       marginBottom:5,
-      paddingTop:7
+      paddingTop:7,
+      fontFamily: 'Kanit-Medium',
     },
     Contact_Detail_2:{
       fontSize: 11,
@@ -787,7 +790,8 @@ const styles = StyleSheet.create({
       paddingHorizontal:10,
       alignSelf: 'stretch',
       flex: 1,
-      height:100
+      height:100,
+      fontFamily: 'Kanit-Light',
       
     },
     buttonContainer_Contact:{
@@ -840,7 +844,7 @@ export default createBottomTabNavigator(
     tabBarOptions: {
       activeTintColor: '#279af3',
       inactiveTintColor: 'gray',
-      labelStyle: { fontSize: 12 },
+      labelStyle: { fontSize: 12,fontFamily: 'Kanit-Light', },
     },
     
   }

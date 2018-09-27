@@ -288,6 +288,7 @@ const styles = StyleSheet.create({
    // backgroundColor: '#ecf0f1',   
    backgroundColor:'rgba(255,255,255,0.4)', 
     borderRadius: 8, 
+   // borderWidth: 1.5,
     borderWidth: 1.5,
     borderColor: '#d6d7da',
    justifyContent: 'center',alignItems:'center',
@@ -299,7 +300,7 @@ const styles = StyleSheet.create({
   
   },
   TitleApp:{
-
+    fontFamily: 'Kanit-Light',
 
   }
 });

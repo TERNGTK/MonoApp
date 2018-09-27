@@ -273,7 +273,7 @@ Show 1 Record
  
      <TouchableOpacity style={styles.buttonContainer} onPress={()=>this.Login()} >
      <Icon name='sign-in' size={20} color='white' style={{textAlign:'center'}}> 
-       <Text style={styles.buttonText}>  Alpha X Login</Text>
+       <Text style={styles.buttonText}>  Login</Text>
        </Icon>
      </TouchableOpacity> 
 
@@ -373,9 +373,11 @@ const styles = StyleSheet.create({
     backgroundColor:'rgba(255,255,255,0.5)',
     //backgroundColor:'#ecf0f1',
     
+    
     marginBottom:10,
     color:'black',
-    paddingHorizontal:10
+    paddingHorizontal:10,
+    fontFamily: 'Kanit-Light',
   },
   buttonContainer:{
     backgroundColor:'#0596f699',  
@@ -386,7 +388,7 @@ const styles = StyleSheet.create({
   buttonText:{
     textAlign:'center',
     color:'white',
-  fontWeight:'bold',
     fontSize:17,
+    fontFamily: 'Kanit-Light',
   }
 });

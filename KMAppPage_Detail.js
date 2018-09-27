@@ -695,17 +695,19 @@ const styles = StyleSheet.create({
     },
     Contact_Detail_1:{
       fontSize: 13,
-      fontWeight:"bold",
+    //  fontWeight:"bold",
       paddingLeft:12,
       paddingRight:10,
       marginBottom:5,
-      paddingTop:7
+      paddingTop:7,
+      fontFamily: 'Kanit-Medium'
     },
     Contact_Detail_2:{
       fontSize: 11,
       paddingLeft:12,
       paddingRight:10,
       marginBottom:4,
+      fontFamily: 'Kanit-Light'
   
     },
     input_Contact:{
@@ -714,7 +716,8 @@ const styles = StyleSheet.create({
       paddingHorizontal:10,
       alignSelf: 'stretch',
       flex: 1,
-      height:50
+      height:50,
+      fontFamily: 'Kanit-Light'
       
     },
     buttonContainer_Contact:{
@@ -722,6 +725,7 @@ const styles = StyleSheet.create({
       paddingVertical:10,
       justifyContent:"center",
       textAlign:"center",
+      fontFamily: 'Kanit-Light'
     },
     container: {
       flex: 1
@@ -734,6 +738,11 @@ const styles = StyleSheet.create({
       paddingVertical:10,
       justifyContent:"center",
       textAlign:"center",
+      fontFamily: 'Kanit-Light'
+    },
+    buttonRegister:{
+
+      fontFamily: 'Kanit-Light'
     }
 
 });
