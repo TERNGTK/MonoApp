@@ -1,7 +1,15 @@
 [
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/macbook/.android/build-cache/5f697c7705b13e136f429debbbb684ead0cbeee7/output/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
@@ -12,12 +20,12 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/Users/macbook/.android/build-cache/bd32b7a74e8803f9ad69bc52a854f4b221757f8b/output/res/anim/design_snackbar_out.xml"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/macbook/.android/build-cache/5a66ffdefc2a0cf819345b9cdead280f7af2372f/output/res/anim/catalyst_fade_in.xml"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/macbook/.android/build-cache/bd32b7a74e8803f9ad69bc52a854f4b221757f8b/output/res/anim/design_snackbar_out.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
@@ -28,10 +36,6 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_out_bottom.xml"
     },
@@ -40,24 +44,16 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/tooltip_enter.xml"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/macbook/.android/build-cache/5f697c7705b13e136f429debbbb684ead0cbeee7/output/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
         "source": "/Users/macbook/.android/build-cache/bd32b7a74e8803f9ad69bc52a854f4b221757f8b/output/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Users/macbook/.android/build-cache/5a66ffdefc2a0cf819345b9cdead280f7af2372f/output/res/anim/catalyst_push_up_out.xml"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
@@ -72,16 +68,12 @@
         "source": "/Users/macbook/.android/build-cache/5a66ffdefc2a0cf819345b9cdead280f7af2372f/output/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/macbook/.android/build-cache/b1c8c1ccfb86cf73fb777586ad8d7fe1161677ce/output/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/macbook/.android/build-cache/5f697c7705b13e136f429debbbb684ead0cbeee7/output/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
@@ -96,10 +88,6 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
@@ -112,28 +100,28 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_popup_exit.xml"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
         "source": "/Users/macbook/.android/build-cache/5a66ffdefc2a0cf819345b9cdead280f7af2372f/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
@@ -152,8 +140,92 @@
         "source": "/Users/macbook/.android/build-cache/bd32b7a74e8803f9ad69bc52a854f4b221757f8b/output/res/anim/design_fab_in.xml"
     },
     {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/macbook/.android/build-cache/5a66ffdefc2a0cf819345b9cdead280f7af2372f/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/macbook/.android/build-cache/5f697c7705b13e136f429debbbb684ead0cbeee7/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/macbook/.android/build-cache/5a66ffdefc2a0cf819345b9cdead280f7af2372f/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/macbook/.android/build-cache/b1c8c1ccfb86cf73fb777586ad8d7fe1161677ce/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/macbook/.android/build-cache/5f697c7705b13e136f429debbbb684ead0cbeee7/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/macbook/.android/build-cache/5f697c7705b13e136f429debbbb684ead0cbeee7/output/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",

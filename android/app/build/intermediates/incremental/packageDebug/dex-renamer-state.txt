@@ -1,4 +1,4 @@
-#Wed Sep 26 13:18:03 ICT 2018
-base.0=/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Sep 27 10:47:33 ICT 2018
+base.0=/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

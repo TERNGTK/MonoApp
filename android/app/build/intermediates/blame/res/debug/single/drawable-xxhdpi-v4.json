@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -8,8 +12,8 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
@@ -20,28 +24,356 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_pause.png",
         "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_pause.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_pause.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_previous.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_all.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_play.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_off.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_all.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_all.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_play.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_previous.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_shuffle.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_next.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_next.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_one.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_rewind.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_off.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_off.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
@@ -64,24 +396,16 @@
         "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_rewind.png",
@@ -90,6 +414,14 @@
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
@@ -108,12 +440,8 @@
         "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fastforward.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fastforward.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
@@ -128,24 +456,12 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_previous.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_previous.png"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fullscreen_exit.png",
@@ -160,14 +476,6 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
@@ -176,8 +484,12 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_one.png",
@@ -196,36 +508,16 @@
         "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png",
@@ -240,12 +532,8 @@
         "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_shuffle.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
@@ -260,28 +548,20 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_all.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_play.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_play.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
@@ -304,16 +584,16 @@
         "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_play.png"
     },
     {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -324,16 +604,8 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
@@ -348,52 +620,48 @@
         "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_one.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fullscreen_exit.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_off.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_off.png"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_rewind.png",
@@ -404,6 +672,14 @@
         "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -412,27 +688,11 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_repeat_all.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
@@ -440,12 +700,12 @@
         "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_next.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
@@ -464,6 +724,10 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -472,16 +736,8 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_edit_mode_logo.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
@@ -496,35 +752,19 @@
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png",
+        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
     },
     {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "/Users/macbook/.android/build-cache/79a915d56f837b56344cfbe693c3d47f3e180c1e/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_controls_next.png",
-        "source": "/Users/macbook/.android/build-cache/4e51130a02cfdc3294b3770cfe0621119babc2f8/output/res/drawable-xxhdpi-v4/exo_controls_next.png"
-    },
-    {
-        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/macbook/.android/build-cache/ef6af190968aeaa01fe8cb4a25a072dbe508c3f4/output/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     }
 ]

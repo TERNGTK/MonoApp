@@ -1,5 +1,5 @@
--injars '/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar'
--outjars '/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/multi-dex/debug/componentClasses.jar'
+-injars '/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar'
+-outjars '/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/multi-dex/debug/componentClasses.jar'
 
 -libraryjars /Users/macbook/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
 
@@ -10,7 +10,7 @@
 -dontpreverify
 -dontnote **
 -dontwarn **
--printconfiguration '/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/build/intermediates/multi-dex/debug/components.flags'
+-printconfiguration '/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/multi-dex/debug/components.flags'
 
 
 # view AndroidManifest.xml #generated:17

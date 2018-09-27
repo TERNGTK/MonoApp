@@ -60,8 +60,8 @@ com/google/android/exoplayer2/source/MediaSourceEventListener$EventDispatcher.cl
 com/facebook/react/devsupport/DebugOverlayController.class
 android/support/v4/app/NotificationCompat$Style.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImplApi21.class
-com/facebook/react/uimanager/BaseViewManager.class
 android/support/v4/app/ActionBarDrawerToggle.class
+com/facebook/react/uimanager/BaseViewManager.class
 android/support/v4/media/MediaBrowserCompat$ConnectionCallback.class
 android/support/v4/app/DialogFragment$DialogStyle.class
 com/google/android/exoplayer2/ExoPlayerLibraryInfo.class
@@ -358,8 +358,8 @@ com/facebook/react/flat/NativeViewWrapper.class
 com/google/android/exoplayer2/source/SingleSampleMediaSource.class
 com/facebook/imagepipeline/producers/LocalContentUriThumbnailFetchProducer.class
 com/google/android/exoplayer2/C$ColorTransfer.class
-com/facebook/react/uimanager/UIManagerModule.class
 com/facebook/datasource/DataSources$ValueHolder.class
+com/facebook/react/uimanager/UIManagerModule.class
 android/support/v4/view/ViewPropertyAnimatorCompat.class
 com/google/android/exoplayer2/upstream/TeeDataSource.class
 android/support/annotation/HalfFloat.class
@@ -558,11 +558,11 @@ com/facebook/widget/text/span/BetterImageSpan.class
 android/support/v4/widget/TextViewCompat$TextViewCompatApi23Impl.class
 com/google/android/exoplayer2/source/MediaSourceEventListener.class
 com/google/android/exoplayer2/extractor/mkv/MatroskaExtractor$InnerEbmlReaderOutput.class
-com/facebook/react/views/text/CustomStyleSpan.class
 com/google/android/exoplayer2/source/dash/DashMediaSource.class
+com/facebook/react/views/text/CustomStyleSpan.class
 com/google/android/exoplayer2/extractor/mp4/Mp4Extractor$Flags.class
-com/facebook/react/modules/appstate/AppStateModule.class
 android/support/v4/widget/ResourceCursorAdapter.class
+com/facebook/react/modules/appstate/AppStateModule.class
 com/google/android/exoplayer2/source/hls/playlist/HlsMediaPlaylist$Segment.class
 com/google/android/exoplayer2/source/dash/PlayerEmsgHandler.class
 com/facebook/react/ReactActivityDelegate.class

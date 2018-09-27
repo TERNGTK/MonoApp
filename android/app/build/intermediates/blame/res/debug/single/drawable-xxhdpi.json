@@ -4,6 +4,10 @@
         "source": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp[ios Splash]/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
     },
     {
+        "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/macbook/Desktop/My Macbook/React-Native/Project/MonoApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
         "merged": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
         "source": "/Users/macbook/Desktop/My Macbook/React-Native/Project/HrApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
     }
