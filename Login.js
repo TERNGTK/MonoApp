@@ -214,7 +214,7 @@ class Login extends Component{
         <View style={styles.logoContainer}>
         {/* <Image  style={styles.logo}  source={LogoImage}  /> */}
         <Image  style={styles.logoMono}  source={require('./image/Logo.png')} />
-          <Text style={styles.title}>Application for Employee X {"\n"}ทดสอบภาษาไทย</Text>
+          <Text style={styles.title}>Mono App {"\n"}เปลี่ยนฟอนต์แล้ว ไอสัส</Text>
         </View>
   
 
@@ -365,7 +365,7 @@ const styles = StyleSheet.create({
     textAlign:'center',
     opacity:0.9,
 
-    fontFamily: 'Kanit',
+    fontFamily: 'Kanit-Regular',
   }
   ,
   input:{
