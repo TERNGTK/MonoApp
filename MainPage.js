@@ -165,7 +165,7 @@ export default class MainPage extends Component{
 
 
    <View style={styles.BoxApp}>
-        <Image resizeMethod="resize"  style={styles.IconApp}  source={require('./image/app_icon/admin.jpg')} />
+        <Image resizeMethod="resize"  style={styles.IconApp}  source={require('./image/app_icon/admin.png')} />
         <Text style={styles.TitleApp}>Admin Service</Text>
         </View>
         <View style={styles.BoxApp}>
@@ -286,16 +286,17 @@ const styles = StyleSheet.create({
     width: 110, 
     height: 110, 
    // backgroundColor: '#ecf0f1',   
-   backgroundColor:'rgba(255,255,255,0.4)', 
+   //backgroundColor:'rgba(255,255,255,0.4)', 
+   backgroundColor:'rgba(255,255,255,0.3)', 
     borderRadius: 8, 
    // borderWidth: 1.5,
-    borderWidth: 1.5,
+    borderWidth: 0,
     borderColor: '#d6d7da',
    justifyContent: 'center',alignItems:'center',
   },
   IconApp:{
-    width: 70, 
-    height: 70,
+    width: 60, 
+    height: 60,
     marginBottom:7
   
   },
